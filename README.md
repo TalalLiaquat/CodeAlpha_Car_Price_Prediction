@@ -118,4 +118,4 @@ LinkedIn:[ Talal Liaquat](https://www.linkedin.com/in/talal-liaquat/)
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
